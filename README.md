@@ -5,18 +5,7 @@
 ## Deskripsi Tugas
 Tugas ini bertujuan untuk mengimplementasikan enam metode array JavaScript (`map`, `filter`, `reduce`, `find`, `some`, `every`) menggunakan minimal 10 data dalam sebuah array.  
 Disini saya menggunakan data 10 Film Terbaik Sepanjang Masa yang berisi judul, tahun rilis, rating, dan sutradara. berikut datanya:
-const movies = [
-  { title: "The Godfather", year: 1972, rating: 9.2, director: "Francis Ford Coppola" },
-  { title: "The Shawshank Redemption", year: 1994, rating: 9.3, director: "Frank Darabont" },
-  { title: "Schindler's List", year: 1993, rating: 9.0, director: "Steven Spielberg" },
-  { title: "Raging Bull", year: 1980, rating: 8.2, director: "Martin Scorsese" },
-  { title: "Casablanca", year: 1942, rating: 8.5, director: "Michael Curtiz" },
-  { title: "Citizen Kane", year: 1941, rating: 8.3, director: "Orson Welles" },
-  { title: "Gone with the Wind", year: 1939, rating: 8.1, director: "Victor Fleming" },
-  { title: "The Wizard of Oz", year: 1939, rating: 8.0, director: "Victor Fleming" },
-  { title: "One Flew Over the Cuckoo's Nest", year: 1975, rating: 8.7, director: "Milos Forman" },
-  { title: "Lawrence of Arabia", year: 1962, rating: 8.3, director: "David Lean" }
-];
+<img width="808" height="332" alt="image" src="https://github.com/user-attachments/assets/193e68de-5ba0-4758-9457-28d8ff72dd17" />
 
 ## Implementasi
 ### map()
