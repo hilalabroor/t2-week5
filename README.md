@@ -38,7 +38,7 @@ outputnya true, karena ada film dari 1939.
 - **Tujuan**: Mengecek apakah semua film memiliki rating di atas 9.  
 - **Screenshot**:  
 <img width="586" height="24" alt="image" src="https://github.com/user-attachments/assets/f08eae96-3aca-4ec5-9a84-6232cec3692f" />
-outputnya false, karena sebagian ada film yang ratingnya di bawah 9.
+outputnya false, karena ada film yang ratingnya di bawah 9.
 
 
 ## Kesimpulan
