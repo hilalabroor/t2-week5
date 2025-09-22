@@ -24,7 +24,7 @@ Disini saya menggunakan data 10 Film Terbaik Sepanjang Masa yang berisi judul, t
 <img width="467" height="32" alt="image" src="https://github.com/user-attachments/assets/31855556-a92f-42f2-97c7-2ccc125fd773" />
 
 ### find()
-- **Tujuan**: Mencari film pertama yang disutradarai oleh Steven Spielberg.  
+- **Tujuan**: Mencari film yang disutradarai oleh Steven Spielberg.  
 - **Screenshot**:  
 <img width="498" height="197" alt="image" src="https://github.com/user-attachments/assets/5a3d4d82-042f-4077-b49d-01d11edd3648" />
 
